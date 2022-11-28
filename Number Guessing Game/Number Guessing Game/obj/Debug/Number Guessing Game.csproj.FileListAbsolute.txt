@@ -1,0 +1,10 @@
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Number Guessing Game\Number Guessing Game\bin\Debug\Number Guessing Game.exe.config
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Number Guessing Game\Number Guessing Game\bin\Debug\Number Guessing Game.exe
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Number Guessing Game\Number Guessing Game\bin\Debug\Number Guessing Game.pdb
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.csprojAssemblyReference.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Number Guessing Game\Number Guessing Game\obj\Debug\Number_Guessing_Game.frmnumber.resources
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Number Guessing Game\Number Guessing Game\obj\Debug\Number_Guessing_Game.Properties.Resources.resources
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.csproj.GenerateResource.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.exe
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.pdb
